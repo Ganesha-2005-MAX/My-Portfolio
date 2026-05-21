@@ -63,6 +63,22 @@ interface EnrichedRepo extends GitHubRepo {
 
 const STATIC_PROJECTS: EnrichedRepo[] = [
   {
+    name: "My-Portfolio",
+    description: "A premium, modern developer portfolio website built with React, TypeScript, and Tailwind CSS. Features dynamic GitHub integration via the GitHub REST API, sleek glassmorphism design, and interactive sections.",
+    html_url: "https://github.com/Ganesha-2005-MAX/My-Portfolio",
+    language: "TypeScript",
+    stargazers_count: 0,
+    topics: ["react", "tailwind", "typescript"],
+    fork: false,
+    homepage: "https://ganesh-myportfolio.vercel.app",
+    created_at: "",
+    updated_at: "",
+    category: "Web App",
+    techStack: ["React", "Tailwind", "TypeScript"],
+    liveUrl: "https://ganesh-myportfolio.vercel.app",
+    shortDesc: "A responsive portfolio website featuring dynamic GitHub integration, shadcn/ui components, and smooth animations.",
+  },
+  {
     name: "hangman-game",
     description: "A high-fidelity, feature-rich Hangman game built with a focus on premium aesthetics, deep gamification, and a smooth user experience. Features a 7-view dashboard, Firestore leaderboards, and persistent settings.",
     html_url: "https://github.com/Ganesha-2005-MAX/hangman-game",

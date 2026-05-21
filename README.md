@@ -1,5 +1,7 @@
 # Ganesh's Portfolio
 
+🔗 **Live Link:** [ganesh-myportfolio.vercel.app](https://ganesh-myportfolio.vercel.app/)
+
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Showcasing my skills in software development, databases, cloud infrastructure, and full-stack development.
 
 ## 🚀 Features
